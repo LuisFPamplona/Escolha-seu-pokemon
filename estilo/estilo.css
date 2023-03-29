@@ -1,0 +1,29 @@
+body{
+    background: -webkit-gradient(linear, left top, left bottom, from(skyblue), to(white)) no-repeat;
+    
+}
+#pokebolas{
+    text-align: center;
+    margin-top: 100px;
+}
+#poke{
+    width: 125px;
+    height: 75;
+}
+#pokemon img {
+    max-width:200px;
+    max-height:150px;
+    width: auto;
+    height: auto;
+    margin-top: 30px;
+}
+#pokemon{
+    margin-left: 400px;
+}
+header img{
+    max-width:400px;
+    max-height:300px;
+    width: auto;
+    height: auto;
+    margin-left: 470px;
+}
